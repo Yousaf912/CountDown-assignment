@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background: url(imege/360_F_543034790_8lWNS9RTZMajVZx3CoZjNqH64JXtySiG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 700px;
+}
+.main{
+    color:#5DADE2;
+    text-align: center;
+    padding-top: 60px;
+}
+.inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.inputs input{
+    background: none;
+    color:#F8F9F9;
+    text-align: center;
+    padding-top: 10px;
+    font-size: large;
+    font-weight: 900;
+    border: none;
+}
